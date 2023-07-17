@@ -1,0 +1,6 @@
+[submodule "new-app"]
+	path = new-app
+	url = https://github.com/mohammadsh96/angular-start
+[submodule "newApp"]
+	path = newApp
+	url = https://github.com/mohammadsh96/angular-start
